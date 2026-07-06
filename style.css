@@ -23,7 +23,7 @@ main{
 article{
     display: flex;
 
-    border: #183C63;
+    border: 1px solid #183C63;
 
     margin: 16px;
     gap: 16px;
