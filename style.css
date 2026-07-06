@@ -17,9 +17,17 @@ main{
     margin: 0 auto;
     padding: 16px;
 
+    display: flex;
+
 }
 article{
     display: flex;
+
+    border: #183C63;
+
+    margin: 16px;
+    gap: 16px;
+    padding: 16px;
 }
 
 
