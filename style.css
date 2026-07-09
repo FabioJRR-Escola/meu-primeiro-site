@@ -43,7 +43,7 @@ header{
 
 main{
     background-color: var(--cor-fundo);
-    color: var(--cor-primaria)
+    color: var(--cor-primaria);
     margin: 0 auto;
     padding: 16px;
 
