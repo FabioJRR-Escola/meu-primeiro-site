@@ -25,7 +25,7 @@
 }
 
 .tema-escuro header p{
-    color: var(--cor-contraste)
+    color: var(--cor-contraste).
 }
 
 body{
