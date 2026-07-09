@@ -2,7 +2,7 @@
     --cor-primaria: #183C63;
     --cor-secundaria: #3a638e;
     --cor-fundo: #ffffff;
-    --cor-texto: #e4e4ea;
+    --cor-texto: #151428;
     --cor-contraste: #f3eef7;
     --cor-botao: #f9f9f9;
 }
@@ -17,7 +17,11 @@
 }
 
 .tema-escuro a{
-    color: var(--cor-secundaria)
+    color: var(--cor-secundaria);
+}
+
+.tema-escuro p{
+    color: var(--cor-texto);
 }
 
 body{
